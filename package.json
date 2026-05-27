@@ -6,6 +6,6 @@
   "files": ["index.js"],
   "keywords": ["screenshot", "songzhiyun", "api", "playwright"],
   "license": "MIT",
-  "repository": "https://github.com/songzhiyun/songzhiyun-sdk-node",
+  "repository": "https://github.com/xuelb1983/sdk-node",
   "engines": { "node": ">=18" }
 }
